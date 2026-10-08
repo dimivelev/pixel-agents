@@ -1,0 +1,5 @@
+{
+  "name": "pixel-agents",
+  "owner": { "name": "dimivelev" },
+  "plugins": [{ "name": "pixel-agents", "source": "./" }]
+}
