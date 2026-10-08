@@ -2,6 +2,8 @@
 
 A Claude Code mod that draws each running subagent as an animated pixel character, in the terminal, under the prompt's hint line.
 
+![Five agents at their desks under the prompt: the crowned main agent, three subagents running Bash or thinking, and one finished with a green check](docs/screenshot.png)
+
 The main agent wears a crown. Each subagent gets its own desk, shirt color and label:
 
 - It drops in when it starts.
